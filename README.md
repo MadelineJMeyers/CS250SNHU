@@ -11,6 +11,12 @@ How do I interpret user needs and implement them into a program? How does creati
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
+  The approach I take to developing programs is to work on each feature as I think of them and to work on the feature until it is completed.
+  An agile process I can incorporate into my future development work is the user stories to organize the features needed for my program.
+  I could also incorporate test cases into my development to ensure the features I am working on are functioning correctly.
 
 
 What does it mean to be a good team member in software development?
+
+To be a good team member means to be able to communicate with other members whether it is to talk about progress being made, issues I am having, or to offer advice to other members of the team.
+To be a good team member also means to be able to work together with other members to accomplish our mutual goals.
